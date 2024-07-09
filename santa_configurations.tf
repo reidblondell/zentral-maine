@@ -1,5 +1,5 @@
 resource "zentral_santa_configuration" "default" {
-  name           = "Default "
+  name           = "Defcon5 "
   client_mode    = "MONITOR"
   enable_bundles = true
 }
