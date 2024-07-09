@@ -1,6 +1,6 @@
 resource "zentral_santa_configuration" "default" {
 
-  name           = "Defcon3 "
+  name           = "Defcon"
   client_mode    = "MONITOR"
   enable_bundles = true
 }
